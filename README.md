@@ -5,6 +5,7 @@ creates DANE RRs for TLS resources.
 # Usage
 
     ./dane.py <hostname> <port> [openssl args]
+    ./test-dane.py <hostname> <port> [openssl args]
 
 # Requirements
 
